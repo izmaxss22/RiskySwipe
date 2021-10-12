@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11cf5c8ff03fe0347a6280a4e9a82f30, type: 3}
+  m_Name: ItemsForGameList
+  m_EditorClassIdentifier: 
+  itemsList:
+  - itemName: "\u0411\u043E\u043B\u044C\u0448\u043E\u0435 \u043E\u0447\u043A\u043E"
+    itemPrefab: {fileID: 3568015235338504027, guid: 1efeaaa24d6b4f44cb0e0b24a6a6136e,
+      type: 3}
+    itemId: 0
+  - itemName: "\u041C\u0430\u043B\u0435\u043D\u044C\u043A\u043E\u0435 \u043E\u0447\u043A\u043E"
+    itemPrefab: {fileID: 4005443869497360597, guid: fd7de2cd34d4920488f395eae3ecd4fc,
+      type: 3}
+    itemId: 1
+  - itemName: "\u041F\u043E\u043B 0"
+    itemPrefab: {fileID: 963819893004184824, guid: aed18614299154e548fff96224ab696f,
+      type: 3}
+    itemId: 2
+  - itemName: "\u041F\u043E\u043B 90"
+    itemPrefab: {fileID: 8216708066354015706, guid: 74b6dd6432efc4913bf7f68e9cf60e79,
+      type: 3}
+    itemId: 3
+  - itemName: "\u041F\u043E\u043B 180"
+    itemPrefab: {fileID: 7369890759219980543, guid: 9834b083adb3c453c952815be42f4f88,
+      type: 3}
+    itemId: 4
+  - itemName: "\u041F\u043E\u043B 270"
+    itemPrefab: {fileID: 7582088880890390551, guid: 026b1ec6e19ec447a84d4f77e213cab7,
+      type: 3}
+    itemId: 5
+  - itemName: "\u0421\u0442\u0435\u043D\u0430 0 "
+    itemPrefab: {fileID: 8021401775057427829, guid: 5f7e38c7e85aa284eaa6d85203a05daf,
+      type: 3}
+    itemId: 6
+  - itemName: "\u0421\u0442\u0435\u043D\u0430 90"
+    itemPrefab: {fileID: 3741515154309286147, guid: 337f40f1661fed54b9967776311fc8b7,
+      type: 3}
+    itemId: 7
+  - itemName: "\u0421\u0442\u0435\u043D\u0430 180"
+    itemPrefab: {fileID: 6028924955045131682, guid: e7aa1b772d809a945a3260b3275b900f,
+      type: 3}
+    itemId: 8
+  - itemName: "\u0421\u0442\u0435\u043D\u0430 270"
+    itemPrefab: {fileID: 8758212914370920097, guid: 1d56a9c01a66d744282652a4731f9b1e,
+      type: 3}
+    itemId: 9
+  - itemName: "\u041C\u043E\u043D\u0435\u0442\u043A\u0430"
+    itemPrefab: {fileID: 275249182622497970, guid: 3b5d54c995fef4a22be0cf50b50736ba,
+      type: 3}
+    itemId: 10
+  - itemName: Gun
+    itemPrefab: {fileID: 5131577069182218274, guid: 1d8e5465d321d44a089b5fa24ccb3ecc,
+      type: 3}
+    itemId: 11
+  - itemName: Spike
+    itemPrefab: {fileID: 273764409817293580, guid: e2a641ac9acba4b67b4d6bdcd7de3aa9,
+      type: 3}
+    itemId: 12
+  - itemName: SpikeCube
+    itemPrefab: {fileID: 253127907449787052, guid: a1ecb8c85a464471bab0387584b8f1ba,
+      type: 3}
+    itemId: 13
+  - itemName: SpikePressed
+    itemPrefab: {fileID: 1978457775948505606, guid: b07a2cb0a1fbe46db9993b332c7022f0,
+      type: 3}
+    itemId: 14
+  - itemName: "\u0421\u0442\u0435\u043D\u0430_\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u0430_\u0433\u043E\u0440\u0438\u0437_1"
+    itemPrefab: {fileID: 8758212914370920097, guid: 856e97ad097ac46b28fc1782708b6897,
+      type: 3}
+    itemId: 15
+  - itemName: "\u0421\u0442\u0435\u043D\u0430_\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u0430_\u0433\u043E\u0440\u0438\u0437_2"
+    itemPrefab: {fileID: 8758212914370920097, guid: ee0a22e38b19f4b708f31c2c346a4678,
+      type: 3}
+    itemId: 16
+  - itemName: "\u0421\u0442\u0435\u043D\u0430_\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u0430_\u0432\u0435\u0440\u0442_1"
+    itemPrefab: {fileID: 8758212914370920097, guid: c0700e5a72148460380a5ce6197ad6cd,
+      type: 3}
+    itemId: 17
+  - itemName: "\u0421\u0442\u0435\u043D\u0430_\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u0430_\u0432\u0435\u0440\u0442_2"
+    itemPrefab: {fileID: 8758212914370920097, guid: 9e10a356a143f44e3b5b0311210906f9,
+      type: 3}
+    itemId: 18
+  - itemName: "\u041F\u043E\u043B_\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u043A\u0430_\u0433\u043E\u0440\u0438\u0437_1"
+    itemPrefab: {fileID: 7582088880890390551, guid: 558fd97410e8e4493bc239c574b27dac,
+      type: 3}
+    itemId: 19
+  - itemName: "\u041F\u043E\u043B_\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u043A\u0430_\u0433\u043E\u0440\u0438\u0437_2"
+    itemPrefab: {fileID: 7582088880890390551, guid: 59afc95cf24fc41e6b9316f0da614a9b,
+      type: 3}
+    itemId: 20
+  - itemName: "\u041F\u043E\u043B_\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u043A\u0430_\u0432\u0435\u0440\u0442_1"
+    itemPrefab: {fileID: 7582088880890390551, guid: 3c204e5d1ca694c72a6cbd5fe207f050,
+      type: 3}
+    itemId: 21
+  - itemName: "\u041F\u043E\u043B_\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u043A\u0430_\u0432\u0435\u0440\u0442_2"
+    itemPrefab: {fileID: 7582088880890390551, guid: d0dae06c111224187b6229bc76972263,
+      type: 3}
+    itemId: 22
+  - itemName: "\u041F\u043E\u043B_\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u043A\u0430_\u043A\u0443\u0431\u0438\u043A"
+    itemPrefab: {fileID: 7582088880890390551, guid: 61baa7a16254f469d852e1ecb2942c1c,
+      type: 3}
+    itemId: 23

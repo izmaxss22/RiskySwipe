@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{db88e1ff-71ff-e66e-e636-c7290609fdea}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreMountains.NiceVibrations.Haptics", "MoreMountains.NiceVibrations.Haptics.csproj", "{10634fcc-468e-a34f-99de-24303b2a2d6d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreMountains.NiceVibrations.Demos", "MoreMountains.NiceVibrations.Demos.csproj", "{cff30f0c-ed7f-8564-d6b2-22e58611e299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreMountains.NiceVibrations", "MoreMountains.NiceVibrations.csproj", "{af24f40f-aac1-7daf-dc06-57bdd6a13b85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{9c6d1927-c33c-1a14-4195-f4a113168202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{29d9de95-0424-2052-9d38-be34aba06f9f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreMountains.NiceVibrations.Editor", "MoreMountains.NiceVibrations.Editor.csproj", "{0e0e222c-9b32-9529-0c94-f9a1b3debfb0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{db88e1ff-71ff-e66e-e636-c7290609fdea}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{db88e1ff-71ff-e66e-e636-c7290609fdea}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{db88e1ff-71ff-e66e-e636-c7290609fdea}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{db88e1ff-71ff-e66e-e636-c7290609fdea}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10634fcc-468e-a34f-99de-24303b2a2d6d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10634fcc-468e-a34f-99de-24303b2a2d6d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10634fcc-468e-a34f-99de-24303b2a2d6d}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10634fcc-468e-a34f-99de-24303b2a2d6d}.Release|Any CPU.Build.0 = Release|Any CPU
+		{cff30f0c-ed7f-8564-d6b2-22e58611e299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cff30f0c-ed7f-8564-d6b2-22e58611e299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cff30f0c-ed7f-8564-d6b2-22e58611e299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{cff30f0c-ed7f-8564-d6b2-22e58611e299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{af24f40f-aac1-7daf-dc06-57bdd6a13b85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{af24f40f-aac1-7daf-dc06-57bdd6a13b85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{af24f40f-aac1-7daf-dc06-57bdd6a13b85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{af24f40f-aac1-7daf-dc06-57bdd6a13b85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9c6d1927-c33c-1a14-4195-f4a113168202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9c6d1927-c33c-1a14-4195-f4a113168202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9c6d1927-c33c-1a14-4195-f4a113168202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9c6d1927-c33c-1a14-4195-f4a113168202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29d9de95-0424-2052-9d38-be34aba06f9f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29d9de95-0424-2052-9d38-be34aba06f9f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29d9de95-0424-2052-9d38-be34aba06f9f}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29d9de95-0424-2052-9d38-be34aba06f9f}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0e0e222c-9b32-9529-0c94-f9a1b3debfb0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0e0e222c-9b32-9529-0c94-f9a1b3debfb0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0e0e222c-9b32-9529-0c94-f9a1b3debfb0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0e0e222c-9b32-9529-0c94-f9a1b3debfb0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

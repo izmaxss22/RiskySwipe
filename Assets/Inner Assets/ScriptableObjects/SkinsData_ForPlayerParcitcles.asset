@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272bc82ba2e985f408a69857b487fa9e, type: 3}
+  m_Name: SkinsData_ForPlayerParcitcles
+  m_EditorClassIdentifier: 
+  particlesPrefabs:
+  - {fileID: 8100102362811418327, guid: e809ccccf3c68458b89d207e3cec6fbb, type: 3}

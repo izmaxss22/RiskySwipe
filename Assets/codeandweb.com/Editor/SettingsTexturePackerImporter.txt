@@ -1,0 +1,18 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Inner Assets/Sptires/Game/OtherItems.tpsheet
+- Assets/Inner Assets/Sptires/Game/WallsItems.tpsheet
+- Assets/Inner Assets/Sptires/UI/SpritesForUI_1.tpsheet
+- Assets/Inner Assets/Sptires/UI/SpritesForUI_2.tpsheet
+textureFileNames:
+- Assets/Inner Assets/Sptires/Game/OtherItems.png
+- Assets/Inner Assets/Sptires/Game/WallsItems.png
+- Assets/Inner Assets/Sptires/UI/SpritesForUI_1.png
+- Assets/Inner Assets/Sptires/UI/SpritesForUI_2.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

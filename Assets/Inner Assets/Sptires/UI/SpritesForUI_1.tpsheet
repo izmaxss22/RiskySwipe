@@ -1,0 +1,161 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:860d35b074311cf3a1aa12bcc9cc4d1c:e8ccbbecec90e78c010495ceba70f0fa:a10187bec87cb5913d408b08d18b8d39$
+#
+:format=40300
+:texture=SpritesForUI_1.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=enabled
+:alphahandling=ClearTransparentPixels
+
+UI-bkg;2;834;188;407; 0.5;0.5; 0;0;0;0
+UI-blurBkg;337;1420;288;626; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-closeButton;370;401;94;94; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-cont;194;499;271;341; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-cont_item_base;370;27;80;80; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-cont_item_locked;286;21;80;80; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-cont_item_selected;370;207;92;92; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-getButton;1270;1067;271;71; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-getButton_disabled;1545;1067;271;71; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-getbutton_icon;1507;1654;42;52; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-icom_complete;930;1056;36;36; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-icon_coin;2;2;40;40; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-icon_energy;90;4;38;38; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-icon_lock;930;1138;34;44; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-icon_revive;46;2;40;40; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-icon_shield;1519;1710;38;51; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-icon_skip;1626;737;36;32; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-noticeIcon;2002;1211;44;44; 0.5;0.5; 0;0;0;0
+UI-BonusScreen-rewardCountCont;1383;1930;324;116; 0.5;0.5; 0;0;0;0
+UI-ChestRewardScreen-buttonGet;629;1744;382;142; 0.463115;0.504444; 0;0;0;0
+UI-ChestRewardScreen-coinCont;1015;1670;188;216; 0.463115;0.504444; 0;0;0;0
+UI-ChestRewardScreen-coinIcon;1941;41;54;54; 0.463115;0.504444; 0;0;0;0
+UI-ChestRewardScreen-countCont;1892;527;148;110; 0.463115;0.504444; 0;0;0;0
+UI-ChestRewardScreen-energyCont;1001;562;188;216; 0.463115;0.504444; 0;0;0;0
+UI-ChestRewardScreen-energyIcon;1981;141;54;54; 0.463115;0.504444; 0;0;0;0
+UI-ChestRewardScreen-reviveCont;1001;342;188;216; 0.463115;0.504444; 0;0;0;0
+UI-ChestRewardScreen-reviveIcon;648;2;48;48; 0.463115;0.504444; 0;0;0;0
+UI-ChestRewardScreen-shieldCont;1485;513;188;216; 0.463115;0.504444; 0;0;0;0
+UI-ChestRewardScreen-shieldIcon;648;54;51;68; 0.463115;0.504444; 0;0;0;0
+UI-EnergyScreen-button_buyEnergy;1193;542;288;110; 0.5;0.5; 0;0;0;0
+UI-EnergyScreen-buttonBuyEnergy_disabled;1711;1936;288;110; 0.5;0.5; 0;0;0;0
+UI-EnergyScreen-buttonClose;2002;1163;44;44; 0.5;0.5; 0;0;0;0
+UI-EnergyScreen-cont;2;1699;331;347; 0.5;0.5; 0;0;0;0
+UI-EnergyScreen-energyIcon;1757;75;120;120; 0.5;0.5; 0;0;0;0
+UI-EnergyScreen-iconAd;2003;1952;39;44; 0.5;0.5; 0;0;0;0
+UI-EnergyScreen-progressBar_Cont;1821;1402;206;70; 0.5;0.5; 0;0;0;0
+UI-EnergyScreen-progressBarIcon;1838;1354;164;44; 0.5;0.5; 41;41;22;22
+UI-GameScreen-Cont_Collected;262;1503;70;78; 0.5;0.5; 0;0;0;0
+UI-GameScreen-Cont_ForProgressBar;1207;1765;324;56; 0.5;0.5; 0;0;0;0
+UI-GameScreen-Cont_NotCollected;902;98;70;78; 0.5;0.5; 0;0;0;0
+UI-GameScreen-cube;1387;451;89;87; 0.463115;0.504444; 0;0;0;0
+UI-GameScreen-ProgressBar;1838;1314;198;36; 0.5;0.5; 21;18;18;18
+UI-GameScreen-Rectangle 114;1613;183;140;140; 0.5;0.5; 0;0;0;0
+UI-GameScreen-Rectangle 115;1862;199;156;156; 0.5;0.5; 0;0;0;0
+UI-GameScreen-shield_icon;930;1186;36;48; 0.463115;0.504444; 0;0;0;0
+UI-GameScreen-shield_progressBarCont;1207;1716;308;45; 0.463115;0.504444; 0;0;0;0
+UI-GameScreen-shield_progressBarIcon;1412;733;198;24; 0.463115;0.504444; 50;49;12;12
+UI-GameScreen-shieldCont;1892;641;148;151; 0.463115;0.504444; 0;0;0;0
+UI-GameScreen-shieldCount_CONT;837;786;56;54; 0.463115;0.504444; 0;0;0;0
+UI-GameScreen-Star_Collected;1193;750;30;28; 0.5;0.5; 0;0;0;0
+UI-GameScreen-Star_NotCollected;1193;718;30;28; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-bkg;714;223;103;223; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-buttonClose;370;111;92;92; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-closeScreen_button;902;180;80;80; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-line;629;1890;460;6; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-mainCont;970;1042;296;398; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-nextLevelButton;186;5;96;96; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-nextLevelButton_disabled;1757;227;96;96; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-previousLevelButton;1881;99;96;96; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-previousLevelButton_disabled;1381;75;96;96; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-shieldBuyButton;1845;1488;178;90; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-shieldBuyButton_disabled;466;32;178;90; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-shieldCont;1810;1146;188;164; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-shieldCountCont;1881;41;56;54; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-shieldIcon;250;1585;82;110; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-star_disabled;1484;1567;72;68; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-star_enabled;1387;379;72;68; 0.5;0.5; 0;0;0;0
+UI-LevelScreen-starrtButton;1207;1639;296;73; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-buttonCont;629;1426;332;130; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-buttonContLine;250;1499;8;82; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-chalengesButtonCont;629;1560;356;180; 0.463115;0.504444; 0;0;0;0
+UI-PickLevelScreen-chesStarIcon;1412;668;62;61; 0.463115;0.504444; 0;0;0;0
+UI-PickLevelScreen-chestButton;1593;1476;248;102; 0.463115;0.504444; 0;0;0;0
+UI-PickLevelScreen-coins_buyButton;1999;91;46;46; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-coins_cont;1412;959;278;104; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-coins_icon;2002;1259;44;51; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-contEnergyCoins;989;1576;193;90; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-giftIcon;821;264;162;162; 0.463115;0.504444; 0;0;0;0
+UI-PickLevelScreen-level_cont_bonus;1859;1592;160;160; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-level_cont_bonus_disabled;1861;1772;160;160; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-level_cont_disabled;1852;796;160;160; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-level_cont_enabled;1862;359;160;160; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-levelNumber_cont;1694;981;104;82; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-levelsDecsCont;629;1924;750;122; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-lockIcon;930;1096;30;38; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-nextLevelIcon;2006;1354;39;44; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-Rectangle 2;837;430;160;348; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-settingsIcon;1381;276;76;76; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-shopIcon;250;1423;72;72; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-star_achivment;821;230;32;30; 0.5;0.5; 0;0;0;0
+UI-PickLevelScreen-star_notAchivment;857;230;32;30; 0.5;0.5; 0;0;0;0
+UI-RateScreen-button_rate;1186;1566;294;69; 0.5;0.5; 0;0;0;0
+UI-RateScreen-cont;930;782;294;256; 0.5;0.5; 0;0;0;0
+UI-RateScreen-star_1;1677;524;62;59; 0.5;0.5; 0;0;0;0
+UI-RateScreen-star_2;1535;125;48;46; 0.5;0.5; 0;0;0;0
+UI-RateScreen-star_3;1666;735;34;34; 0.5;0.5; 0;0;0;0
+UI-Rectangle 114;1613;183;140;140; 0.463115;0.504444; 0;0;0;0
+UI-Rectangle 115;1461;175;148;148; 0.463115;0.504444; 0;0;0;0
+UI-ReviveScreen-bkg;1228;656;180;382; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-buttonClose;370;303;94;94; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-buttonRevive;1295;1392;294;170; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-cont;965;1444;326;112; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-header;1233;1825;326;95; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-iconForButtonRevive;2003;2000;37;46; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-reviveForEffectButton;1563;1756;294;170; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-reviveForEffectButton_disabled;1561;1582;294;170; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-reviveForEffectCount;1743;523;60;60; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-reviveForEffectCount_disabled;1807;523;60;60; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-reviveForEffectIcon;1481;121;50;50; 0.5;0.5; 0;0;0;0
+UI-ReviveScreen-reviveForEffectIcon_disabled;1481;67;50;50; 0.5;0.5; 0;0;0;0
+UI-SettingsScreen-button;1593;1400;224;72; 0.5;0.5; 0;0;0;0
+UI-SettingsScreen-buttonClose;1381;221;51;51; 0.5;0.5; 0;0;0;0
+UI-SettingsScreen-cont;1270;1142;290;246; 0.5;0.5; 106;106;105;105
+UI-SettingsScreen-line;629;1900;468;6; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-button_getCoins;1412;761;210;108; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-buttonClose;1613;71;108;108; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-contForScreenButtons;250;1238;716;178; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-Group 29;1658;773;190;182; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-line;629;1910;600;10; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-mapSkin_buttonBuy;1564;1228;242;82; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-mapSkin_buttonNotPicked;1564;1142;242;82; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-mapSkin_buttonPicked;1412;873;242;82; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-mapSkin_cont;468;126;242;320; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_1;1193;170;184;182; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_1_bkg;194;844;180;390; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_2_bkg;378;844;180;390; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_3;987;156;184;182; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_3_bkg;562;844;180;390; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_4;714;37;184;182; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_4_bkg;746;844;180;390; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_5;1674;327;184;182; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_5_bkg;2;440;180;390; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_6;1704;587;184;182; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_6_bkg;469;450;180;390; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_7;1820;960;190;182; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_7_bkg;186;105;180;390; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_8;1193;356;190;182; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_8_bkg;2;46;180;390; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_9;1480;327;190;182; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_icon_9_bkg;653;450;180;390; 0.463115;0.504444; 0;0;0;0
+UI-ShopScreen-mapSkin_notPickedIcon;1999;41;46;46; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-mapSkin_pikedIcon;1535;75;46;46; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-mapSkin_screenIcon_disable;1725;19;52;52; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-mapSkin_screenIcon_enable;1781;19;52;52; 0.5;0.5; 0;0;0;0
+UI-ShopScreen-Rectangle 57;2;1245;244;450; 0.5;0.5; 122;122;225;225
+UI-ShopScreen-screenDescCont;1564;1314;270;74; 0.5;0.5; 0;0;0;0

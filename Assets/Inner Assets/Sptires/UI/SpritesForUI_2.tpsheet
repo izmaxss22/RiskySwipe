@@ -1,0 +1,76 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:629e7f8ebe389c5cc533b63e19822264:145042cb41b9e2daf8236e0fbbb14435:0da93a44efe7709cedafe9491fa1b8ef$
+#
+:format=40300
+:texture=SpritesForUI_2.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=enabled
+:alphahandling=ClearTransparentPixels
+
+GameScreen-dimerBkg;940;1065;154;328; 0.5;0.5; 0;0;0;0
+GameScreen-dimerText;1;1620;678;427; 0.5;0.5; 0;0;0;0
+LevelEditor-bigPointIcon01;1152;1158;34;34; 0.5;0.5; 0;0;0;0
+LevelEditor-bigPointIcon02;1100;1147;34;34; 0.5;0.5; 0;0;0;0
+LevelEditor-bigPointIcon03;1264;1241;35;34; 0.5;0.5; 0;0;0;0
+LevelEditor-bigPointIcon04;1305;1241;35;34; 0.5;0.5; 0;0;0;0
+LevelEditor-bigPointIcon05;1458;1352;35;35; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleRect_01;1672;1205;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleRect_02;1234;1337;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleRect_03;1290;1337;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleRect_04;1346;1337;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleRect_05;1402;1337;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleSlimRect_01;1234;1281;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleSlimRect_02;1100;1239;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleSlimRect_03;1156;1239;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleSlimRect_04;1290;1281;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-dangerObstacleSlimRect_05;1346;1281;50;50; 0.5;0.5; 0;0;0;0
+LevelEditor-midPointicon01;1458;1311;35;35; 0.5;0.5; 0;0;0;0
+LevelEditor-midPointicon02;1458;1270;35;35; 0.5;0.5; 0;0;0;0
+LevelEditor-midPointicon03;1152;1198;35;35; 0.5;0.5; 0;0;0;0
+LevelEditor-midPointicon04;1305;1201;34;34; 0.5;0.5; 0;0;0;0
+LevelEditor-midPointicon05;1346;1241;35;34; 0.5;0.5; 0;0;0;0
+LevelEditor-smallPointIcon01;1387;1241;35;34; 0.5;0.5; 0;0;0;0
+LevelEditor-smallPointIcon02;1428;1230;35;34; 0.5;0.5; 0;0;0;0
+LevelEditor-smallPointIcon03;1345;1201;34;34; 0.5;0.5; 0;0;0;0
+LevelEditor-smallPointIcon04;1264;1201;35;34; 0.5;0.5; 0;0;0;0
+LevelEditor-smallPointIcon05;1193;1173;35;34; 0.5;0.5; 0;0;0;0
+MainScreen-arcadeMode_button;655;1347;279;84; 0.5;0.5; 0;0;0;0
+MainScreen-chalengeMode_button;659;1437;306;176; 0.5;0.5; 0;0;0;0
+MainScreen-chalengeMode_progressCont;1265;1977;528;70; 0.5;0.5; 0;0;0;0
+MainScreen-chalengeMode_progressIcon;1265;1617;408;50; 0.5;0.5; 102;102;25;25
+MainScreen-chalengeMode_starIcon;1736;1469;32;30; 0.5;0.5; 0;0;0;0
+MainScreen-endlessArcadeMode_button;1799;1964;241;83; 0.5;0.5; 0;0;0;0
+Patricles-1;1902;1253;128;129; 0.5;0.5; 0;0;0;0
+Patricles-4;1902;1118;128;129; 0.5;0.5; 0;0;0;0
+Patricles-5;557;1522;96;92; 0.5;0.5; 0;0;0;0
+Patricles-8;1672;1505;75;72; 0.5;0.5; 0;0;0;0
+Patricles-9;1679;1583;86;84; 0.5;0.5; 0;0;0;0
+Patricles-10;557;1340;77;78; 0.5;0.5; 0;0;0;0
+Patricles-13;557;1424;92;92; 0.5;0.5; 0;0;0;0
+ShoopScreen-icon_designSubScreen_disabled;1672;1319;52;52; 0.5;0.5; 0;0;0;0
+ShoopScreen-icon_designSubScreen_enabled;1672;1261;52;52; 0.5;0.5; 0;0;0;0
+ShoopScreen-icon_purchaseSubScreen_disabled;1672;1441;58;58; 0.5;0.5; 0;0;0;0
+ShoopScreen-icon_purchaseSubScreen_enabled;1672;1377;58;58; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_endlessEnergy_buyButton;1264;1505;236;106; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_endlessEnergy_cont;1775;1726;260;232; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_endlessEnergy_descCont;1774;1388;236;94; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_freeAd_buttonBuy;1264;1393;236;106; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_freeAd_cont;1775;1488;260;232; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_icon_shield;1212;1213;46;62; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_iconCoin;1402;1281;50;50; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_iconRevive;1100;1187;46;46; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_kit_1_buttonBuy;1265;1825;504;146; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_kit_1_cont;971;1399;287;214; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_kit_1_itemsCont;1;1388;550;226; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_kit_2_buttonBuy;1265;1673;504;146; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_kit_2_cont;685;1619;574;428; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_kit_coinItemCont;1506;1423;160;188; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_kit_itemsIconsCont;1100;1295;128;98; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_kit_reviveItemCont;1506;1229;160;188; 0.5;0.5; 0;0;0;0
+ShoopScreen-purchases_kit_shieldItemCont;1736;1194;160;188; 0.5;0.5; 0;0;0;0

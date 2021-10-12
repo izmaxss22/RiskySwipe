@@ -1,0 +1,3804 @@
+fileFormatVersion: 2
+guid: 5864536736ef14c398ff45579054b3ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4358744983475497704
+    second: UI-GameScreen-Cont_Collected
+  - first:
+      213: 4778687565302379573
+    second: UI-GameScreen-Cont_ForProgressBar
+  - first:
+      213: -1111171493708392985
+    second: UI-GameScreen-Cont_NotCollected
+  - first:
+      213: -7876769411556675542
+    second: UI-GameScreen-ProgressBar
+  - first:
+      213: 5340790641164634835
+    second: UI-GameScreen-Star_Collected
+  - first:
+      213: -639016756950461025
+    second: UI-GameScreen-Star_NotCollected
+  - first:
+      213: 3375081479521379442
+    second: UI-PickLevelScreen-1
+  - first:
+      213: 830558275562175295
+    second: UI-PickLevelScreen-2
+  - first:
+      213: -1805294132506277847
+    second: UI-PickLevelScreen-3
+  - first:
+      213: -8560438886180227284
+    second: UI-PickLevelScreen-4
+  - first:
+      213: -2603325075538700519
+    second: UI-PickLevelScreen-5
+  - first:
+      213: 5986257652077517441
+    second: UI-PickLevelScreen-6
+  - first:
+      213: -6395155259233951680
+    second: UI-PickLevelScreen-7
+  - first:
+      213: -1428220537729029935
+    second: UI-PickLevelScreen-button_buyCoins
+  - first:
+      213: 4517187396671049885
+    second: UI-PickLevelScreen-coins_icon
+  - first:
+      213: -9008155469954358265
+    second: UI-PickLevelScreen-energyIcon
+  - first:
+      213: 7556348937521504740
+    second: UI-PickLevelScreen-energyProgressBar_Cont
+  - first:
+      213: 3503735611641053194
+    second: UI-PickLevelScreen-energyProgressBar_icon
+  - first:
+      213: -3448201910757408481
+    second: UI-PickLevelScreen-icon_play
+  - first:
+      213: -2802700423628078896
+    second: UI-PickLevelScreen-line
+  - first:
+      213: -7482511920061441599
+    second: UI-PickLevelScreen-lineIcon
+  - first:
+      213: 5725949456249611767
+    second: UI-PickLevelScreen-settings
+  - first:
+      213: -8783288933329884859
+    second: UI-PickLevelScreen-shop
+  - first:
+      213: -2427300133765522628
+    second: UI-ReviveScreen-button_revive
+  - first:
+      213: -3726437947681989458
+    second: UI-ReviveScreen-button_useReviveEffects_active
+  - first:
+      213: 8909367465262963321
+    second: UI-ReviveScreen-button_useReviveEffects_notActive
+  - first:
+      213: 677096234285904081
+    second: UI-ReviveScreen-buttonClose
+  - first:
+      213: -9040662812719532065
+    second: UI-ReviveScreen-circle_dark
+  - first:
+      213: -1473498235545011769
+    second: UI-ReviveScreen-circle_light
+  - first:
+      213: 8596118393293045211
+    second: UI-ReviveScreen-contFor_reviveText
+  - first:
+      213: 2662360433235153785
+    second: UI-ReviveScreen-icon_play
+  - first:
+      213: -2382405847992554425
+    second: UI-PickLevelScreen-Group 1
+  - first:
+      213: 5310192682280943781
+    second: UI-PickLevelScreen-Group 2
+  - first:
+      213: -3268163893131931806
+    second: UI-PickLevelScreen-Group 3
+  - first:
+      213: -6046516963419053
+    second: UI-PickLevelScreen-Group 7
+  - first:
+      213: 1518834693330169772
+    second: UI-PickLevelScreen-buttonCont
+  - first:
+      213: 2185615181857982257
+    second: UI-PickLevelScreen-buttonContLine
+  - first:
+      213: -1180777761200237283
+    second: UI-PickLevelScreen-coins_buyButton
+  - first:
+      213: -2941995095107679860
+    second: UI-PickLevelScreen-coins_cont
+  - first:
+      213: -533970569392337766
+    second: UI-PickLevelScreen-contEnergyCoins
+  - first:
+      213: 2980519658507236468
+    second: UI-PickLevelScreen-energyCont
+  - first:
+      213: 6500277501789202995
+    second: UI-PickLevelScreen-level_cont_bonus
+  - first:
+      213: 7078627414460446219
+    second: UI-PickLevelScreen-level_cont_disabled
+  - first:
+      213: -136848805922711087
+    second: UI-PickLevelScreen-level_cont_enabled
+  - first:
+      213: 3719849955836973011
+    second: UI-PickLevelScreen-levelNumber_cont
+  - first:
+      213: -3488052508922454582
+    second: UI-PickLevelScreen-levelsDecsCont
+  - first:
+      213: -5435232462248047323
+    second: UI-PickLevelScreen-lockIcon
+  - first:
+      213: 1833011401940542698
+    second: UI-PickLevelScreen-nextLevelIcon
+  - first:
+      213: 4461715204553596098
+    second: UI-PickLevelScreen-Rectangle 2
+  - first:
+      213: 7884823094878081144
+    second: UI-PickLevelScreen-settingsIcon
+  - first:
+      213: 7606112453348030192
+    second: UI-PickLevelScreen-shopIcon
+  - first:
+      213: 530402271266342955
+    second: UI-PickLevelScreen-star_achivment
+  - first:
+      213: 3240847683226672226
+    second: UI-PickLevelScreen-star_notAchivment
+  - first:
+      213: 7291638862305910644
+    second: UI-LevelScreen-bonusLevel_bonusCountCont
+  - first:
+      213: -1278454982269921278
+    second: UI-LevelScreen-bonusLevel_bonusIconCont
+  - first:
+      213: -1512104068462518456
+    second: UI-LevelScreen-bonusLevel_descCont
+  - first:
+      213: -1858020254256842229
+    second: UI-LevelScreen-bonusLevelHeader
+  - first:
+      213: -4625005997222304360
+    second: UI-LevelScreen-button_openBonusDesc
+  - first:
+      213: 1484723298762853177
+    second: UI-LevelScreen-closeScreen_button
+  - first:
+      213: -4818670853440112057
+    second: UI-LevelScreen-levelNumberCont
+  - first:
+      213: 7356581364731160840
+    second: UI-LevelScreen-line
+  - first:
+      213: 790696399743510140
+    second: UI-LevelScreen-mainCont
+  - first:
+      213: 1514333982104888242
+    second: UI-LevelScreen-shieldBuyButton
+  - first:
+      213: -2428859873387693576
+    second: UI-LevelScreen-shieldCont
+  - first:
+      213: -2477238749911183464
+    second: UI-LevelScreen-shieldCountCont
+  - first:
+      213: -3717521278787616966
+    second: UI-LevelScreen-shieldIcon
+  - first:
+      213: 252048223017501586
+    second: UI-LevelScreen-skipLevel_button
+  - first:
+      213: -7241500539806382372
+    second: UI-LevelScreen-skipLevel_buttonIcon
+  - first:
+      213: 5412973553448291190
+    second: UI-LevelScreen-skipLevel_effectsCountCont
+  - first:
+      213: -4775626707286320362
+    second: UI-LevelScreen-star_disabled
+  - first:
+      213: -464488125390385016
+    second: UI-LevelScreen-star_enabled
+  - first:
+      213: -1956887810957016668
+    second: UI-LevelScreen-start_button
+  - first:
+      213: 3466569049154395298
+    second: UI-LevelScreen-switchLevelButton
+  - first:
+      213: 5141632952141235951
+    second: UI-LevelScreen-usualLevelHeader
+  - first:
+      213: 4980736850339001849
+    second: UI-LevelScreen-skipEffectsIcon
+  - first:
+      213: -1284162456362457989
+    second: UI-3
+  - first:
+      213: 5511496652382982730
+    second: UI-blurBkg
+  - first:
+      213: 1347156080683578318
+    second: UI-EnergyScreen-button_buyEnergy
+  - first:
+      213: 3346192238552152543
+    second: UI-EnergyScreen-buttonClose
+  - first:
+      213: 747319831669045688
+    second: UI-EnergyScreen-cont
+  - first:
+      213: 6302434361694674123
+    second: UI-EnergyScreen-energyIcon
+  - first:
+      213: -6629996388032900864
+    second: UI-EnergyScreen-iconAd
+  - first:
+      213: -5411255355758430232
+    second: UI-EnergyScreen-progressBar_Cont
+  - first:
+      213: 623915018087208097
+    second: UI-EnergyScreen-progressBarIcon
+  - first:
+      213: 3863469177790834411
+    second: UI-RateScreen-button_rate
+  - first:
+      213: 4097356995815438833
+    second: UI-RateScreen-cont
+  - first:
+      213: 5047826673792180044
+    second: UI-RateScreen-star_1
+  - first:
+      213: 4712348902673882670
+    second: UI-RateScreen-star_2
+  - first:
+      213: 2620238315683862947
+    second: UI-RateScreen-star_3
+  - first:
+      213: 6400521411598906053
+    second: UI-SettingsScreen-button
+  - first:
+      213: -3374888951843670573
+    second: UI-SettingsScreen-buttonClose
+  - first:
+      213: 4452791730653702362
+    second: UI-SettingsScreen-cont
+  - first:
+      213: -1342004510092162466
+    second: UI-SettingsScreen-line
+  - first:
+      213: -3484166239629379343
+    second: UI-BonusScreen-closeButton
+  - first:
+      213: 3208012899392415407
+    second: UI-BonusScreen-cont
+  - first:
+      213: 2273295586986562663
+    second: UI-BonusScreen-cont_item_base
+  - first:
+      213: 8165002047901063696
+    second: UI-BonusScreen-cont_item_locked
+  - first:
+      213: 9177004529269947229
+    second: UI-BonusScreen-cont_item_selected
+  - first:
+      213: 5534360702020487257
+    second: UI-BonusScreen-getButton
+  - first:
+      213: 6607341821490873016
+    second: UI-BonusScreen-getbutton_icon
+  - first:
+      213: -2932925016584218232
+    second: UI-BonusScreen-icom_complete
+  - first:
+      213: -7396244121293522874
+    second: UI-BonusScreen-icon_coin
+  - first:
+      213: -2447046927390450923
+    second: UI-BonusScreen-icon_energy
+  - first:
+      213: -2846610007590662078
+    second: UI-BonusScreen-icon_lock
+  - first:
+      213: -2451212481726591271
+    second: UI-BonusScreen-icon_revive
+  - first:
+      213: -3886475263184857307
+    second: UI-BonusScreen-icon_shield
+  - first:
+      213: -1892951856401903373
+    second: UI-BonusScreen-icon_skip
+  - first:
+      213: 5228302905522360021
+    second: UI-BonusScreen-noticeIcon
+  - first:
+      213: 8311399399607572433
+    second: UI-BonusScreen-rewardCountCont
+  - first:
+      213: 3366215707445793935
+    second: UI-BonusScreen-getButton_disabled
+  - first:
+      213: 6524941373082717681
+    second: UI-ReviveScreen-buttonRevive
+  - first:
+      213: 6286137420608126390
+    second: UI-ReviveScreen-cont
+  - first:
+      213: -8929462447979747521
+    second: UI-ReviveScreen-header
+  - first:
+      213: -3880297598459653969
+    second: UI-ReviveScreen-iconForButtonRevive
+  - first:
+      213: -4384530718159511421
+    second: UI-ReviveScreen-reviveForEffectButton
+  - first:
+      213: 7567017568299097082
+    second: UI-ReviveScreen-reviveForEffectButton_disabled-1
+  - first:
+      213: 2816510460950415989
+    second: UI-ReviveScreen-reviveForEffectButton_disabled
+  - first:
+      213: 5693273235722422545
+    second: UI-ReviveScreen-reviveForEffectCount
+  - first:
+      213: 8996721972227245889
+    second: UI-ReviveScreen-reviveForEffectIcon
+  - first:
+      213: -4814479054210986932
+    second: UI-ReviveScreen-reviveForEffectIcon_disabled
+  - first:
+      213: -2952612611155419287
+    second: UI-PickLevelScreen-level_cont_bonus_disabled
+  - first:
+      213: 6726676065651644732
+    second: UI-LevelScreen-shieldBuyButton_disabled
+  - first:
+      213: 3850778473527296790
+    second: UI-LevelScreen-levelCompletrIcon
+  - first:
+      213: 7454974224492624986
+    second: UI-EnergyScreen-buttonBuyEnergy_disabled
+  - first:
+      213: -2060559373126483291
+    second: UI-Rectangle 98
+  - first:
+      213: 7715852447429732939
+    second: UI-LevelScreen-bkg
+  - first:
+      213: 901779426872854954
+    second: UI-LevelScreen-buttonClose
+  - first:
+      213: -7277772260198690242
+    second: UI-LevelScreen-desc_closeButton
+  - first:
+      213: 6479525283312612055
+    second: UI-LevelScreen-descBonus_rewardCont
+  - first:
+      213: -1800961048744928112
+    second: UI-LevelScreen-desct_cont
+  - first:
+      213: 2374455106005317563
+    second: UI-LevelScreen-desctBonus_rewardIconCont
+  - first:
+      213: -8717527338153400617
+    second: UI-LevelScreen-descUsual_rewardCont
+  - first:
+      213: -1758177074566068089
+    second: UI-LevelScreen-headerBonus
+  - first:
+      213: 7761243093829963384
+    second: UI-LevelScreen-headerBonus_descButton
+  - first:
+      213: -4926194910976732021
+    second: UI-LevelScreen-headerUsual
+  - first:
+      213: 7138400275180439764
+    second: UI-LevelScreen-headeUsual_desctButton
+  - first:
+      213: 7941139161212081661
+    second: UI-LevelScreen-nextLevelButton
+  - first:
+      213: -7347335407430698485
+    second: UI-LevelScreen-previousLevelButton
+  - first:
+      213: 4446311718036323025
+    second: UI-LevelScreen-starrtButton
+  - first:
+      213: 7165133792348476117
+    second: UI-GameScreen-Rectangle 114
+  - first:
+      213: 1281190819707566272
+    second: UI-GameScreen-Rectangle 115
+  - first:
+      213: 4000224135415711508
+    second: UI-bkg
+  - first:
+      213: -2408963370119875915
+    second: UI-ReviveScreen-bkg
+  - first:
+      213: 2865150482960408429
+    second: UI-ReviveScreen-reviveForEffectCount_disabled
+  - first:
+      213: 8048931475989496689
+    second: UI-LevelScreen-nextLevelButton_disabled
+  - first:
+      213: 1828797456831032904
+    second: UI-LevelScreen-previousLevelButton_disabled
+  - first:
+      213: 3388460091001038230
+    second: UI-ShopScreen-button_getCoins
+  - first:
+      213: 6883869865013649599
+    second: UI-ShopScreen-buttonClose
+  - first:
+      213: 3216069664362341512
+    second: UI-ShopScreen-contForScreenButtons
+  - first:
+      213: 7212840593755234251
+    second: UI-ShopScreen-line
+  - first:
+      213: 3621138474681033290
+    second: UI-ShopScreen-mapSkin_buttonBuy
+  - first:
+      213: 6972109156837397340
+    second: UI-ShopScreen-mapSkin_buttonNotPicked
+  - first:
+      213: -14933172291580514
+    second: UI-ShopScreen-mapSkin_buttonPicked
+  - first:
+      213: 5092083920896797962
+    second: UI-ShopScreen-mapSkin_cont
+  - first:
+      213: -6047959449929739843
+    second: UI-ShopScreen-mapSkin_notPickedIcon
+  - first:
+      213: -4569228538699347887
+    second: UI-ShopScreen-mapSkin_pikedIcon
+  - first:
+      213: -7243216174644546973
+    second: UI-ShopScreen-mapSkin_screenIcon_disable
+  - first:
+      213: -5151772852190424473
+    second: UI-ShopScreen-mapSkin_screenIcon_enable
+  - first:
+      213: 5681954950243674783
+    second: UI-ShopScreen-Rectangle 57
+  - first:
+      213: 8903315141321420577
+    second: UI-ShopScreen-screenDescCont
+  - first:
+      213: 4592553071689839506
+    second: UI-ShopScreen-mapSkin_icon_1
+  - first:
+      213: -3316719588283632094
+    second: UI-ShopScreen-mapSkin_icon_2
+  - first:
+      213: 5691807248375391109
+    second: UI-ShopScreen-mapSkin_icon_3
+  - first:
+      213: 7018287876799030368
+    second: UI-ShopScreen-mapSkin_icon_4
+  - first:
+      213: 937555385184108650
+    second: UI-ShopScreen-mapSkin_icon_5
+  - first:
+      213: 8266605874811729910
+    second: UI-ShopScreen-mapSkin_icon_6
+  - first:
+      213: -5182847813183563148
+    second: UI-ShopScreen-mapSkin_icon_1_bkg
+  - first:
+      213: -3656017826006548357
+    second: UI-ShopScreen-mapSkin_icon_2_bkg
+  - first:
+      213: 4757395847548017972
+    second: UI-ShopScreen-mapSkin_icon_3_bkg
+  - first:
+      213: 3680740014305365214
+    second: UI-ShopScreen-mapSkin_icon_4_bkg
+  - first:
+      213: -1642943234222538338
+    second: UI-ShopScreen-mapSkin_icon_5_bkg
+  - first:
+      213: -6663490114744094905
+    second: UI-ShopScreen-mapSkin_icon_6_bkg
+  - first:
+      213: -798875887590439171
+    second: UI-GameScreen-shield_icon
+  - first:
+      213: 2926586998348661578
+    second: UI-GameScreen-shield_progressBarCont
+  - first:
+      213: 4194977103558948167
+    second: UI-GameScreen-shield_progressBarIcon
+  - first:
+      213: -9052316618808691107
+    second: UI-GameScreen-shieldCont
+  - first:
+      213: -7392790644746550317
+    second: UI-GameScreen-shieldCount_CONT
+  - first:
+      213: -5522640533286631590
+    second: UI-ShopScreen-mapSkin_icon_7
+  - first:
+      213: 922233210294834236
+    second: UI-ShopScreen-mapSkin_icon_7_bkg
+  - first:
+      213: -4710249171899333874
+    second: UI-ShopScreen-mapSkin_icon_8
+  - first:
+      213: -8517798352012793575
+    second: UI-ShopScreen-mapSkin_icon_8_bkg
+  - first:
+      213: 5152437418910302380
+    second: UI-ShopScreen-mapSkin_icon_9
+  - first:
+      213: -1359228700154979440
+    second: UI-ShopScreen-mapSkin_icon_9_bkg
+  - first:
+      213: 433927488624559422
+    second: UI-ShopScreen-Group 29
+  - first:
+      213: -4780745752206156831
+    second: UI-ChestRewardScreen-buttonGet
+  - first:
+      213: 2253558689343959209
+    second: UI-ChestRewardScreen-coinCont
+  - first:
+      213: -3605015068527727025
+    second: UI-ChestRewardScreen-coinIcon
+  - first:
+      213: 6189626816057150426
+    second: UI-ChestRewardScreen-countCont
+  - first:
+      213: -2901806687323896471
+    second: UI-ChestRewardScreen-energyCont
+  - first:
+      213: -984337955613094592
+    second: UI-ChestRewardScreen-energyIcon
+  - first:
+      213: 1881111124241140374
+    second: UI-ChestRewardScreen-reviveCont
+  - first:
+      213: 2278135302789753996
+    second: UI-ChestRewardScreen-reviveIcon
+  - first:
+      213: -7355156455395812379
+    second: UI-ChestRewardScreen-shieldCont
+  - first:
+      213: -825133640986218415
+    second: UI-ChestRewardScreen-shieldIcon
+  - first:
+      213: 7290155669007200276
+    second: UI-PickLevelScreen-chesStarIcon
+  - first:
+      213: 5524320774978213610
+    second: UI-PickLevelScreen-chestButton
+  - first:
+      213: -8251729994080420452
+    second: UI-PickLevelScreen-giftIcon
+  - first:
+      213: 626437543874403566
+    second: UI-Rectangle 114
+  - first:
+      213: 2133169838076817670
+    second: UI-Rectangle 115
+  - first:
+      213: -1131338675877358949
+    second: UI-GameScreen-Group 50
+  - first:
+      213: 7930103196503139965
+    second: UI-GameScreen-cube
+  - first:
+      213: 202177452418932168
+    second: UI-PickLevelScreen-chalengesButtonCont
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI-bkg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 834
+        width: 188
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c56538a6a38730800000000000000
+      internalID: 4000224135415711508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-blurBkg
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1420
+        width: 288
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42da021105cc7c40800000000000000
+      internalID: 5511496652382982730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-closeButton
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 401
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f87b74d341c5afc0800000000000000
+      internalID: -3484166239629379343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-cont
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 499
+        width: 271
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e7273cb6258c20800000000000000
+      internalID: 3208012899392415407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-cont_item_base
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 27
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7641ccbba4e5c8f10800000000000000
+      internalID: 2273295586986562663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-cont_item_locked
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 21
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ada7f3a1aef4170800000000000000
+      internalID: 8165002047901063696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-cont_item_selected
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 207
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b394d5ff44b5f70800000000000000
+      internalID: 9177004529269947229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-getButton
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1067
+        width: 271
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95800d67cbffdcc40800000000000000
+      internalID: 5534360702020487257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-getButton_disabled
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1067
+        width: 271
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8495a7d95337be20800000000000000
+      internalID: 3366215707445793935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-getbutton_icon
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1654
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2cb83216ef1bb50800000000000000
+      internalID: 6607341821490873016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-icom_complete
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1056
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88914a99c382c47d0800000000000000
+      internalID: -2932925016584218232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-icon_coin
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6487a3e98234b5990800000000000000
+      internalID: -7396244121293522874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-icon_energy
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 4
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b5e28d8c75a0ed0800000000000000
+      internalID: -2447046927390450923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-icon_lock
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1138
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2409c73b74fce78d0800000000000000
+      internalID: -2846610007590662078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-icon_revive
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9decea52c3b8bfdd0800000000000000
+      internalID: -2451212481726591271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-icon_shield
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1710
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527168de657701ac0800000000000000
+      internalID: -3886475263184857307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-icon_skip
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 737
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f09f3ed052eab5e0800000000000000
+      internalID: -1892951856401903373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-noticeIcon
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1211
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8dc5bac9ae8840800000000000000
+      internalID: 5228302905522360021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-BonusScreen-rewardCountCont
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1930
+        width: 324
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71100e7b5085370800000000000000
+      internalID: 8311399399607572433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-buttonGet
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1744
+        width: 382
+        height: 142
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb5b4e511167adb0800000000000000
+      internalID: -4780745752206156831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-coinCont
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1670
+        width: 188
+        height: 216
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a077d620bf364f10800000000000000
+      internalID: 2253558689343959209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-coinIcon
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 41
+        width: 54
+        height: 54
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e697635e968fdc0800000000000000
+      internalID: -3605015068527727025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-countCont
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 527
+        width: 148
+        height: 110
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb815f8bc8f5e550800000000000000
+      internalID: 6189626816057150426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-energyCont
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 562
+        width: 188
+        height: 216
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965c43b3136bab7d0800000000000000
+      internalID: -2901806687323896471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-energyIcon
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 141
+        width: 54
+        height: 54
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d4fb838dde652f0800000000000000
+      internalID: -984337955613094592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-reviveCont
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 342
+        width: 188
+        height: 216
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69acd67d99c0b1a10800000000000000
+      internalID: 1881111124241140374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-reviveIcon
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c6f01ecff8d9f10800000000000000
+      internalID: 2278135302789753996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-shieldCont
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 513
+        width: 188
+        height: 216
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb16b05c2c3de990800000000000000
+      internalID: -7355156455395812379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ChestRewardScreen-shieldIcon
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 54
+        width: 51
+        height: 68
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150bac443598c84f0800000000000000
+      internalID: -825133640986218415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-EnergyScreen-button_buyEnergy
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 542
+        width: 288
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f62e515f02b210800000000000000
+      internalID: 1347156080683578318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-EnergyScreen-buttonBuyEnergy_disabled
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1936
+        width: 288
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c739c1f83657760800000000000000
+      internalID: 7454974224492624986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-EnergyScreen-buttonClose
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1163
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9f111bc10107e20800000000000000
+      internalID: 3346192238552152543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-EnergyScreen-cont
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1699
+        width: 331
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9fc3c6d630f5a00800000000000000
+      internalID: 747319831669045688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-EnergyScreen-energyIcon
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 75
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccd60509aeb67750800000000000000
+      internalID: 6302434361694674123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-EnergyScreen-iconAd
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1952
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0011d2d89658df3a0800000000000000
+      internalID: -6629996388032900864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-EnergyScreen-progressBar_Cont
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1402
+        width: 206
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b61b8ceb57e4b0800000000000000
+      internalID: -5411255355758430232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-EnergyScreen-progressBarIcon
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1354
+        width: 164
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 41, y: 22, z: 41, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49e1f376798a800800000000000000
+      internalID: 623915018087208097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-Cont_Collected
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1503
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8155d69f780a283c0800000000000000
+      internalID: -4358744983475497704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-Cont_ForProgressBar
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1765
+        width: 324
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534bc66a50f415240800000000000000
+      internalID: 4778687565302379573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-Cont_NotCollected
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 98
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e598f8e9635490f0800000000000000
+      internalID: -1111171493708392985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-cube
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 451
+        width: 89
+        height: 87
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7662cb77d26d0e60800000000000000
+      internalID: 7930103196503139965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-ProgressBar
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1314
+        width: 198
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20708ef3f710b290800000000000000
+      internalID: -7876769411556675542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-Rectangle 114
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 183
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2141db83baf6360800000000000000
+      internalID: 7165133792348476117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-Rectangle 115
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 199
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c839223344b7c110800000000000000
+      internalID: 1281190819707566272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-shield_icon
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1186
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df60c84ec92d9e4f0800000000000000
+      internalID: -798875887590439171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-shield_progressBarCont
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1716
+        width: 308
+        height: 45
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4349d88e535d9820800000000000000
+      internalID: 2926586998348661578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-shield_progressBarIcon
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 733
+        width: 198
+        height: 24
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 50, y: 12, z: 49, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7453782237d873a30800000000000000
+      internalID: 4194977103558948167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-shieldCont
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 641
+        width: 148
+        height: 151
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56fa851ff5bf5280800000000000000
+      internalID: -9052316618808691107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-shieldCount_CONT
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 786
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d30d09c318876990800000000000000
+      internalID: -7392790644746550317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-Star_Collected
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 750
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da495a9acc4e1a40800000000000000
+      internalID: 5340790641164634835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-GameScreen-Star_NotCollected
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 718
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95127c25a1c127f0800000000000000
+      internalID: -639016756950461025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-bkg
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 223
+        width: 103
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aa06cabe6341b60800000000000000
+      internalID: 7715852447429732939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-buttonClose
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 111
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa903846c93c38c00800000000000000
+      internalID: 901779426872854954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-closeScreen_button
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 180
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b818c49fbca9410800000000000000
+      internalID: 1484723298762853177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-line
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1890
+        width: 460
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8092f0e36c3d71660800000000000000
+      internalID: 7356581364731160840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-mainCont
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1042
+        width: 296
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7664efaf2e19fa00800000000000000
+      internalID: 790696399743510140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-nextLevelButton
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df55dff3ef7943e60800000000000000
+      internalID: 7941139161212081661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-nextLevelButton_disabled
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 227
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17380d7488c83bf60800000000000000
+      internalID: 8048931475989496689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-previousLevelButton
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 99
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a7172ff55090a90800000000000000
+      internalID: -7347335407430698485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-previousLevelButton_disabled
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 75
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2d8cf891316910800000000000000
+      internalID: 1828797456831032904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-shieldBuyButton
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1488
+        width: 178
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b32aa2cbbef30510800000000000000
+      internalID: 1514333982104888242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-shieldBuyButton_disabled
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 32
+        width: 178
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39d9440e34f95d50800000000000000
+      internalID: 6726676065651644732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-shieldCont
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1146
+        width: 188
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9b68550d4fa4ed0800000000000000
+      internalID: -2428859873387693576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-shieldCountCont
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 41
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f06bf5b741f9dd0800000000000000
+      internalID: -2477238749911183464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-shieldIcon
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1585
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f78ecd716b86cc0800000000000000
+      internalID: -3717521278787616966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-star_disabled
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1567
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b9454efc099bdb0800000000000000
+      internalID: -4775626707286320362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-star_enabled
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 379
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88018bbc28ecd89f0800000000000000
+      internalID: -464488125390385016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-LevelScreen-starrtButton
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1639
+        width: 296
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da363233f874bd30800000000000000
+      internalID: 4446311718036323025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-buttonCont
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1426
+        width: 332
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafeb704b1cf31510800000000000000
+      internalID: 1518834693330169772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-buttonContLine
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1499
+        width: 8
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13788529d6dd45e10800000000000000
+      internalID: 2185615181857982257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-chalengesButtonCont
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1560
+        width: 356
+        height: 180
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd160162574ec200800000000000000
+      internalID: 202177452418932168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-chesStarIcon
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 668
+        width: 62
+        height: 61
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4107970c4f5db2560800000000000000
+      internalID: 7290155669007200276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-chestButton
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1476
+        width: 248
+        height: 102
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae613e9c9745aac40800000000000000
+      internalID: 5524320774978213610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-coins_buyButton
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 91
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d159af8d1e80d9fe0800000000000000
+      internalID: -1180777761200237283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-coins_cont
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 959
+        width: 278
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c894a216c0feb27d0800000000000000
+      internalID: -2941995095107679860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-coins_icon
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1259
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d901372110640be30800000000000000
+      internalID: 4517187396671049885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-contEnergyCoins
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1576
+        width: 193
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c4bd2a894f698f0800000000000000
+      internalID: -533970569392337766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-giftIcon
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 264
+        width: 162
+        height: 162
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d76683a47fb7d80800000000000000
+      internalID: -8251729994080420452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-level_cont_bonus
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1592
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aeb9ba2ff953a50800000000000000
+      internalID: 6500277501789202995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-level_cont_bonus_disabled
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1772
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f1eb849763607d0800000000000000
+      internalID: -2952612611155419287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-level_cont_disabled
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 796
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06b14811265c3260800000000000000
+      internalID: 7078627414460446219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-level_cont_enabled
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 359
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d95a0f6cb0d91ef0800000000000000
+      internalID: -136848805922711087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-levelNumber_cont
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 981
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df4a6383df8f9330800000000000000
+      internalID: 3719849955836973011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-levelsDecsCont
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1924
+        width: 750
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd54cf39b2f79fc0800000000000000
+      internalID: -3488052508922454582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-lockIcon
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1096
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d88086fdc2294b0800000000000000
+      internalID: -5435232462248047323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-nextLevelIcon
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1354
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae428e9882a207910800000000000000
+      internalID: 1833011401940542698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-Rectangle 2
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 430
+        width: 160
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc5060e6523bed30800000000000000
+      internalID: 4461715204553596098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-settingsIcon
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 276
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870110744d48c6d60800000000000000
+      internalID: 7884823094878081144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-shopIcon
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1423
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6fb773af65e8960800000000000000
+      internalID: 7606112453348030192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-star_achivment
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 230
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2804e63e0e5c5700800000000000000
+      internalID: 530402271266342955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-PickLevelScreen-star_notAchivment
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 230
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c9fd11ccdc9fc20800000000000000
+      internalID: 3240847683226672226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-RateScreen-button_rate
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1566
+        width: 294
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6a4e66fbccd9530800000000000000
+      internalID: 3863469177790834411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-RateScreen-cont
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 782
+        width: 294
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f97a8d9a7cbcd830800000000000000
+      internalID: 4097356995815438833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-RateScreen-star_1
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 524
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fdf138d9b7d0640800000000000000
+      internalID: 5047826673792180044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-RateScreen-star_2
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 125
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e14912c50a56140800000000000000
+      internalID: 4712348902673882670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-RateScreen-star_3
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 735
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a954319dd4fc5420800000000000000
+      internalID: 2620238315683862947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Rectangle 114
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 183
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec1a9c80ad81b800800000000000000
+      internalID: 626437543874403566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Rectangle 115
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 175
+        width: 148
+        height: 148
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601752c6aaa8a9d10800000000000000
+      internalID: 2133169838076817670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-bkg
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 656
+        width: 180
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2b31ff394a19ed0800000000000000
+      internalID: -2408963370119875915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-buttonClose
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 303
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0bd5b0077856900800000000000000
+      internalID: 677096234285904081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-buttonRevive
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1392
+        width: 294
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd48d2bb9f3d8a50800000000000000
+      internalID: 6524941373082717681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-cont
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1444
+        width: 326
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd33acbda8dc3750800000000000000
+      internalID: 6286137420608126390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-header
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1825
+        width: 326
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f372af0c63d241480800000000000000
+      internalID: -8929462447979747521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-iconForButtonRevive
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 2000
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d20594e9662ac0800000000000000
+      internalID: -3880297598459653969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-reviveForEffectButton
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1756
+        width: 294
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3806055ca840723c0800000000000000
+      internalID: -4384530718159511421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-reviveForEffectButton_disabled
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1582
+        width: 294
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a0f1b7751461720800000000000000
+      internalID: 2816510460950415989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-reviveForEffectCount
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 523
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1194978f7d1920f40800000000000000
+      internalID: 5693273235722422545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-reviveForEffectCount_disabled
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 523
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd4ec1f2f03c720800000000000000
+      internalID: 2865150482960408429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-reviveForEffectIcon
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 121
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1478e8197f6cadc70800000000000000
+      internalID: 8996721972227245889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ReviveScreen-reviveForEffectIcon_disabled
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 67
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c0233fec88f2db0800000000000000
+      internalID: -4814479054210986932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-SettingsScreen-button
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1400
+        width: 224
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c272abff4833d850800000000000000
+      internalID: 6400521411598906053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-SettingsScreen-buttonClose
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 221
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5b7f4116cf921d0800000000000000
+      internalID: -3374888951843670573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-SettingsScreen-cont
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1142
+        width: 290
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 106, y: 105, z: 106, w: 105}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad82964bc7e7bcd30800000000000000
+      internalID: 4452791730653702362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-SettingsScreen-line
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1900
+        width: 468
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a0cf0220e306de0800000000000000
+      internalID: -1342004510092162466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-button_getCoins
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 761
+        width: 210
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69564bbff7a360f20800000000000000
+      internalID: 3388460091001038230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-buttonClose
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 71
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0a7208b2b688f50800000000000000
+      internalID: 6883869865013649599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-contForScreenButtons
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1238
+        width: 716
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8842a3df156c1ac20800000000000000
+      internalID: 3216069664362341512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-Group 29
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 773
+        width: 190
+        height: 182
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e358eb970ce950600800000000000000
+      internalID: 433927488624559422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-line
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1910
+        width: 600
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf5c440e48291460800000000000000
+      internalID: 7212840593755234251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_buttonBuy
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1228
+        width: 242
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42ecd1d14ed04230800000000000000
+      internalID: 3621138474681033290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_buttonNotPicked
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1142
+        width: 242
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c539a8c9658e1c060800000000000000
+      internalID: 6972109156837397340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_buttonPicked
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 873
+        width: 242
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dc032eb52facff0800000000000000
+      internalID: -14933172291580514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_cont
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 126
+        width: 242
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d2887d857baa640800000000000000
+      internalID: 5092083920896797962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_1
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 170
+        width: 184
+        height: 182
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b332bfa60cbf30800000000000000
+      internalID: 4592553071689839506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_1_bkg
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 844
+        width: 180
+        height: 390
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a9842bf53d218b0800000000000000
+      internalID: -5182847813183563148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_2_bkg
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 844
+        width: 180
+        height: 390
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70426c5827334dc0800000000000000
+      internalID: -3656017826006548357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_3
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 156
+        width: 184
+        height: 182
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583a861398c5dfe40800000000000000
+      internalID: 5691807248375391109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_3_bkg
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 844
+        width: 180
+        height: 390
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d940d415aa50240800000000000000
+      internalID: 4757395847548017972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_4
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 37
+        width: 184
+        height: 182
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0646904b3a7f56160800000000000000
+      internalID: 7018287876799030368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_4_bkg
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 844
+        width: 180
+        height: 390
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edccc37aa8d941330800000000000000
+      internalID: 3680740014305365214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_5
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 327
+        width: 184
+        height: 182
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60472bc7add20d00800000000000000
+      internalID: 937555385184108650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_5_bkg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 440
+        width: 180
+        height: 390
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91c80a45d71339e0800000000000000
+      internalID: -1642943234222538338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_6
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 587
+        width: 184
+        height: 182
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f77f4aae32e8b270800000000000000
+      internalID: 8266605874811729910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_6_bkg
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 450
+        width: 180
+        height: 390
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fe95a9b078683a0800000000000000
+      internalID: -6663490114744094905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_7
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 960
+        width: 190
+        height: 182
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57c647f1b3ab53b0800000000000000
+      internalID: -5522640533286631590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_7_bkg
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 105
+        width: 180
+        height: 390
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3411b3f73e6ccc00800000000000000
+      internalID: 922233210294834236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_8
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 356
+        width: 190
+        height: 182
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03cc598555d1aeb0800000000000000
+      internalID: -4710249171899333874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_8_bkg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 180
+        height: 390
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919aedf2783bac980800000000000000
+      internalID: -8517798352012793575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_9
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 327
+        width: 190
+        height: 182
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca04491a882218740800000000000000
+      internalID: 5152437418910302380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_icon_9_bkg
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 450
+        width: 180
+        height: 390
+      alignment: 9
+      pivot: {x: 0.463115, y: 0.504444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b1fbed2bc032de0800000000000000
+      internalID: -1359228700154979440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_notPickedIcon
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 41
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db198fa7ce4511ca0800000000000000
+      internalID: -6047959449929739843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_pikedIcon
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 75
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1588f355ad6d690c0800000000000000
+      internalID: -4569228538699347887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_screenIcon_disable
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 19
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362b2fee34dea7b90800000000000000
+      internalID: -7243216174644546973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-mapSkin_screenIcon_enable
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 19
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76250bdd2e93188b0800000000000000
+      internalID: -5151772852190424473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-Rectangle 57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1245
+        width: 244
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 122, y: 225, z: 122, w: 225}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aeb074ceb5ade40800000000000000
+      internalID: 5681954950243674783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-ShopScreen-screenDescCont
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1314
+        width: 270
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe1d103fdee8b70800000000000000
+      internalID: 8903315141321420577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

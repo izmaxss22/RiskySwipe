@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 8db6b6ba917694004b8ac840e944fc86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6555082488694899277
+    second: Game-OtherMapItems-gun_disabled
+  - first:
+      213: -3869054535207554802
+    second: Game-OtherMapItems-gun_enabled
+  - first:
+      213: 592005553702365870
+    second: Game-OtherMapItems-spike_cube_disabled
+  - first:
+      213: -7401798360836904726
+    second: Game-OtherMapItems-spike_cube_enabled
+  - first:
+      213: -3640902234330515540
+    second: Game-OtherMapItems-spike_disabled
+  - first:
+      213: 7721126532265639738
+    second: Game-OtherMapItems-spike_enabled
+  - first:
+      213: 8506793827036111979
+    second: Game-OtherMapItems-spike_pressed_disabled
+  - first:
+      213: 4511700925937482033
+    second: Game-OtherMapItems-spike_pressed_enabled
+  - first:
+      213: -6584421566770966209
+    second: OtherMapItems-gun_disabled
+  - first:
+      213: 4523213461386924967
+    second: OtherMapItems-gun_enabled
+  - first:
+      213: 8087331423609031856
+    second: OtherMapItems-spike_cube_disabled
+  - first:
+      213: -1694106801542634189
+    second: OtherMapItems-spike_cube_enabled
+  - first:
+      213: 4299385686938379744
+    second: OtherMapItems-spike_disabled
+  - first:
+      213: 5437592090830922770
+    second: OtherMapItems-spike_enabled
+  - first:
+      213: -1784630833856759615
+    second: OtherMapItems-spike_pressed_disabled
+  - first:
+      213: -3709159482015080477
+    second: OtherMapItems-spike_pressed_enabled
+  - first:
+      213: -7233349015074003700
+    second: Game-WallItems-1-walls_0
+  - first:
+      213: -8331612676118120368
+    second: Game-WallItems-1-walls_90
+  - first:
+      213: -2041666933968696903
+    second: Game-WallItems-1-walls_180
+  - first:
+      213: 6902505576619105712
+    second: Game-WallItems-1-walls_270
+  - first:
+      213: 8107406357796554026
+    second: Game-WallItems-1-walls_half_horiz_1
+  - first:
+      213: -3303815845378539069
+    second: Game-WallItems-1-walls_half_horiz_2
+  - first:
+      213: 8550060968557423062
+    second: Game-WallItems-1-walls_half_vert_1
+  - first:
+      213: -6712136437844556586
+    second: Game-WallItems-1-walls_half_vert_2
+  - first:
+      213: -4951546657587343544
+    second: Game-WallItems-2-walls_0
+  - first:
+      213: 7126759358036991198
+    second: Game-WallItems-2-walls_90
+  - first:
+      213: 7961660599156987493
+    second: Game-WallItems-2-walls_180
+  - first:
+      213: 2195049921364467974
+    second: Game-WallItems-2-walls_270
+  - first:
+      213: 5227065811089852070
+    second: Game-WallItems-2-walls_half_horiz_1
+  - first:
+      213: -8924147521281196454
+    second: Game-WallItems-2-walls_half_horiz_2
+  - first:
+      213: -4495444781846753465
+    second: Game-WallItems-2-walls_half_vert_1
+  - first:
+      213: -996296026184223342
+    second: Game-WallItems-2-walls_half_vert_2
+  - first:
+      213: 7661588383220787254
+    second: Game-WallItems-3-walls_0
+  - first:
+      213: -2641111006598431206
+    second: Game-WallItems-3-walls_90
+  - first:
+      213: -6921681344212213207
+    second: Game-WallItems-3-walls_180
+  - first:
+      213: 2826734701504582026
+    second: Game-WallItems-3-walls_270
+  - first:
+      213: -9169859138562565476
+    second: Game-WallItems-3-walls_half_horiz_1
+  - first:
+      213: 3554450850643686396
+    second: Game-WallItems-3-walls_half_horiz_2
+  - first:
+      213: -7792265755146159833
+    second: Game-WallItems-3-walls_half_vert_1
+  - first:
+      213: -4390044704530595329
+    second: Game-WallItems-3-walls_half_vert_2
+  - first:
+      213: 6756313076605477695
+    second: Game-WallItems-4-walls_0
+  - first:
+      213: 6923726506940484043
+    second: Game-WallItems-4-walls_90
+  - first:
+      213: -541679334716474604
+    second: Game-WallItems-4-walls_180
+  - first:
+      213: 1469167540093942783
+    second: Game-WallItems-4-walls_270
+  - first:
+      213: -7820753689626509364
+    second: Game-WallItems-4-walls_half_horiz_1
+  - first:
+      213: 7937792753417312920
+    second: Game-WallItems-4-walls_half_horiz_2
+  - first:
+      213: 9085004467942234750
+    second: Game-WallItems-4-walls_half_vert_1
+  - first:
+      213: -1044849405599015498
+    second: Game-WallItems-4-walls_half_vert_2
+  - first:
+      213: 7467397597307536851
+    second: Game-WallItems-5-walls_0
+  - first:
+      213: 5464293455360464488
+    second: Game-WallItems-5-walls_90
+  - first:
+      213: -4817112879010227773
+    second: Game-WallItems-5-walls_180
+  - first:
+      213: -3088917452434956199
+    second: Game-WallItems-5-walls_270
+  - first:
+      213: 2611133984681707003
+    second: Game-WallItems-5-walls_half_horiz_1
+  - first:
+      213: 6223874504452103339
+    second: Game-WallItems-5-walls_half_horiz_2
+  - first:
+      213: -2158237320725770470
+    second: Game-WallItems-5-walls_half_vert_1
+  - first:
+      213: -1254319665982073051
+    second: Game-WallItems-5-walls_half_vert_2
+  - first:
+      213: 6190846139790291745
+    second: Game-WallItems-6-walls_0
+  - first:
+      213: 3374722261966039928
+    second: Game-WallItems-6-walls_90
+  - first:
+      213: 8633741028045953714
+    second: Game-WallItems-6-walls_180
+  - first:
+      213: 238133236928099951
+    second: Game-WallItems-6-walls_270
+  - first:
+      213: -5687017978218649204
+    second: Game-WallItems-6-walls_half_horiz_1
+  - first:
+      213: 5123556794441259249
+    second: Game-WallItems-6-walls_half_horiz_2
+  - first:
+      213: 7912514451584676327
+    second: Game-WallItems-6-walls_half_vert_1
+  - first:
+      213: 2194108007811409163
+    second: Game-WallItems-6-walls_half_vert_2
+  - first:
+      213: 38125593707037586
+    second: Game-WallItems-7-walls_0
+  - first:
+      213: -5446762305173413761
+    second: Game-WallItems-7-walls_90
+  - first:
+      213: 6010912034275076852
+    second: Game-WallItems-7-walls_180
+  - first:
+      213: -1704455053417544298
+    second: Game-WallItems-7-walls_270
+  - first:
+      213: -2021622980589751893
+    second: Game-WallItems-7-walls_half_horiz_1
+  - first:
+      213: 462927814370455667
+    second: Game-WallItems-7-walls_half_horiz_2
+  - first:
+      213: -7776976810265427449
+    second: Game-WallItems-7-walls_half_vert_1
+  - first:
+      213: 5801590552604139630
+    second: Game-WallItems-7-walls_half_vert_2
+  - first:
+      213: -1847115875299802584
+    second: Game-WallItems-8-walls_0
+  - first:
+      213: 3724500012923020603
+    second: Game-WallItems-8-walls_90
+  - first:
+      213: 4678155913807037040
+    second: Game-WallItems-8-walls_180
+  - first:
+      213: -8133953387338954444
+    second: Game-WallItems-8-walls_270
+  - first:
+      213: -7346616175029583592
+    second: Game-WallItems-8-walls_half_horiz_1
+  - first:
+      213: -2092351339039103885
+    second: Game-WallItems-8-walls_half_horiz_2
+  - first:
+      213: -88191938149947654
+    second: Game-WallItems-8-walls_half_vert_1
+  - first:
+      213: -5640434933571509514
+    second: Game-WallItems-8-walls_half_vert_2
+  - first:
+      213: -8854646547078492290
+    second: Game-WallItems-9-walls_0
+  - first:
+      213: 5619563579968035440
+    second: Game-WallItems-9-walls_90
+  - first:
+      213: -5944320424396092138
+    second: Game-WallItems-9-walls_180
+  - first:
+      213: -1929651240048504048
+    second: Game-WallItems-9-walls_270
+  - first:
+      213: -3699159616116740248
+    second: Game-WallItems-9-walls_half_horiz_1
+  - first:
+      213: -1162218058681935613
+    second: Game-WallItems-9-walls_half_horiz_2
+  - first:
+      213: -351204974050995204
+    second: Game-WallItems-9-walls_half_vert_1
+  - first:
+      213: -5624000087241428965
+    second: Game-WallItems-9-walls_half_vert_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game-OtherMapItems-gun_disabled
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdf4f3f43ba705a0800000000000000
+      internalID: -6555082488694899277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-OtherMapItems-gun_enabled
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 617
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01f65c366b5e4ac0800000000000000
+      internalID: -3869054535207554802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-OtherMapItems-spike_cube_disabled
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 413
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaec7d1ae9373800800000000000000
+      internalID: 592005553702365870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-OtherMapItems-spike_cube_enabled
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 209
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae86f337b97874990800000000000000
+      internalID: -7401798360836904726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-OtherMapItems-spike_disabled
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 971
+        width: 200
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7bdcc45bae87dc0800000000000000
+      internalID: -3640902234330515540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-OtherMapItems-spike_enabled
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 971
+        width: 200
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f798d3ca3f62b60800000000000000
+      internalID: 7721126532265639738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-OtherMapItems-spike_pressed_disabled
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6429fd2ae33e0670800000000000000
+      internalID: 8506793827036111979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-OtherMapItems-spike_pressed_enabled
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139fd4f8618cc9e30800000000000000
+      internalID: 4511700925937482033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

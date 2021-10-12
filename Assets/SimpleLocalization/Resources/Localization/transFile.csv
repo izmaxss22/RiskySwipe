@@ -1,0 +1,42 @@
+Key,English,Russian
+SnPickLevel.Level,LEVELS,УРОВНИ
+SnSettings.Settings,SETTINGS,НАСТРОЙКИ
+SnSettings.Language,LANGUAGE,ЯЗЫК
+SnSettings.Russian,ENGLISH,РУССКИЙ
+SnSettings.Sound,SOUND,ЗВУК
+SnSettings.SoundOff,OFF,ВЫКЛ
+SnSettings.SoundOn,ON,ВКЛ
+SnGetEnergy.EndEnergy,OUT OF ENERGY,ЗАКОНЧИЛАСЬ ЭНЕРГИЯ
+SnGetEnergy.Next,NEXT,СЛЕДУЮШАЯ
+SnGetEnergy.Fill,FILL ENERGY,ВОСПОЛНИТЬ
+SnRate.Skip,Skip,Пропустить
+SnRate.Remind,Remind me later,Напомнить позже
+SnRate.Rate,RATE,ОЦЕНИТЬ
+SnRate.LikedGame,LIKE A GAME?,НРАВИТЬСЯ ИГРА?
+SnRate.LikedGameDesc,"If you like the game, then please rate it with 5 stars","Если вам понравилась игра, то пожалуйста оцените ее на 5 звезд"
+Sn.PickedLevel.Start,START,НАЧАТЬ
+Sn.PickedLevel.UsualLevel,USUAL LEVEL,ОБЫЧНЫЙ УРОВЕНЬ
+Sn.PickedLevel.BonusLevel,BONUS LEVEL,БОНУСНЫЙ УРОВЕНЬ
+Sn.PickedLevel.Close,CLOSE,ЗАКРЫТЬ
+Sn.PickedLevel.CompleteRewards,REWARDS FOR PASSING,НАГРАДЫ ЗА ПРОХОЖДЕНИЕ
+Sn.PickedLevel.BonusDesc,"For getting each star in this bonus level, you will receive a reward","За получение каждой звезды на этом бонусном уровне, вы получите награду"
+Sn.PickedLevel.UsualDesc,"For completing the normal 3-star level, you will receive a reward",За прохождение обычного уровня на 3 звезды вы получаете в награду
+SnRevive.Revive,REVIVE?,ВОЗРОДИТЬСЯ?
+SnShop.Design,DESIGN,ДИЗАЙН
+Panel_ChestReward.Revive,reach,получите
+Screen_RewardChest,PICK UP,ЗАБРАТЬ
+SnShop.EndlessEnergy,ENDLESS ENERGY,БЕСКОНЕЧНАЯ ЭНЕРГИЯ
+SnShop.EndlessEnergyPrice,$2.99,279 РУБ
+SnShop.RemoveAd,REMOVE POP-UP ADS,УДАЛИТЬ ВСПЛЫВАЮЩУЮ РЕКЛАМУ
+SnShop.RemoveAdPrice,$1.99,179 РУБ
+SnShop.Kit_1,$2.99,279 РУБ
+SnShop.Kit_2,$1.99,179 РУБ
+SnShop.Kit_3,$0.99,99 РУБ
+SnGameTraining.Desc,Press anywhere around the yellow rhomb to make the character jump in that direction,"Нажимайте в любом месте вокруг желтого ромба, чтобы персонаж прыгнул в эту сторону"
+SnGameTraining.Training,TRAINING,ОБУЧЕНИЕ
+SnGameTraining.Ok,OK,ПОНЯТНО
+SnMain.Chalenges,CHALLENGES,ИСПЫТАНИЯ
+SnMain.Completed,completed,пройдено
+SnMain.Arcade,ARCADE,АРКАДА
+SnMain.ENDLESS MODE,ENDLESS MODE,БЕСКОНЕЧНЫЙ РЕЖИМ
+SnMain.Soon,SOON,СКОРО

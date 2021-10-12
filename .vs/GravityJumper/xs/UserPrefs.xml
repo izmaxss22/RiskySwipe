@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{DB88E1FF-71FF-E66E-E636-C7290609FDEA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Inner Assets/Scripts/ForGame/UssualMode/GameItems/Point/PointItem.cs">
+    <Files>
+      <File FileName="Assets/Inner Assets/Scripts/Utils/AppLauncher.cs" Line="21" Column="53" />
+      <File FileName="Assets/Inner Assets/Scripts/Utils/SerealizationManager.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/Utils/DataManager.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/Utils/DataSynchronizerFor_GameUpdates.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/ForGame/UssualMode/GameManager.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/ForGame/UssualMode/GameUIManager.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/Utils/IAPManager.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/ForGame/GameItemsBaseScripts/MainItem.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/UI/Screen_PickLevel/ManagerFor_Screen_PickLevel.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/UI/Screen_ChestRewards/Screen_ChestRewards.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/UI/Screen_Rate.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/UI/Screen_Shop/SubsScreen_Purchases.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/Utils/VisualDesignDataManager/VisualDesignDataManager.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/UI/Screen_Shop/Screen_Shop.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/UI/Screen_Shop/SubsScreen_MapSkins.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/ForGame/UssualMode/GameItems/Point/PointItem.cs" Line="129" Column="38" />
+      <File FileName="Assets/Inner Assets/Scripts/ForGame/GameItemsBaseScripts/MainSpecData.cs" />
+      <File FileName="Assets/Inner Assets/Scripts/ForGame/UssualMode/GameItems/Point/PointItemSpecData.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GravityJumper" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Inner Assets" expanded="True">
+                <Node name="Prefabs" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="Editor" expanded="True" />
+                  <Node name="ForGame" expanded="True">
+                    <Node name="GameItemsBaseScripts" expanded="True" />
+                    <Node name="UssualMode" expanded="True">
+                      <Node name="GameItems" expanded="True">
+                        <Node name="Point" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                  <Node name="UI" expanded="True">
+                    <Node name="Screen_ChestRewards" expanded="True" />
+                    <Node name="Screen_PickLevel" expanded="True" />
+                    <Node name="Screen_Shop" expanded="True" />
+                  </Node>
+                  <Node name="Utils" expanded="True">
+                    <Node name="Testers" expanded="True" />
+                    <Node name="VisualDesignDataManager" expanded="True" />
+                    <Node name="AppLauncher.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Plugins" expanded="True">
+                <Node name="Android" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef4be6e8-1d0e-4725-b2d5-ee63af68301d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

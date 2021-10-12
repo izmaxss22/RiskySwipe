@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: f8aeb62858071441da64aa37977fa920
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2460339537149982333
+    second: 1-walls_0
+  - first:
+      213: 2184714459878748098
+    second: 1-walls_90
+  - first:
+      213: -3062182319402694275
+    second: 1-walls_180
+  - first:
+      213: -5338165566078205806
+    second: 1-walls_270
+  - first:
+      213: -1110064038947800154
+    second: 1-walls_half_horiz_1
+  - first:
+      213: -7065198765232252239
+    second: 1-walls_half_horiz_2
+  - first:
+      213: 1859292509499989543
+    second: 1-walls_half_vert_1
+  - first:
+      213: -1625035451332665248
+    second: 1-walls_half_vert_2
+  - first:
+      213: 950492077629898559
+    second: 2-walls_0
+  - first:
+      213: -3120284736478991540
+    second: 2-walls_90
+  - first:
+      213: -7487351793933296787
+    second: 2-walls_180
+  - first:
+      213: 6039184321200648611
+    second: 2-walls_270
+  - first:
+      213: -7721061297528246644
+    second: 2-walls_half_horiz_1
+  - first:
+      213: 8820301833656466221
+    second: 2-walls_half_horiz_2
+  - first:
+      213: 4185061591683083622
+    second: 2-walls_half_vert_1
+  - first:
+      213: -3984850271724442801
+    second: 2-walls_half_vert_2
+  - first:
+      213: -8944759683189242504
+    second: 3-walls_0
+  - first:
+      213: -9176422463994698597
+    second: 3-walls_90
+  - first:
+      213: -6227634340338669367
+    second: 3-walls_180
+  - first:
+      213: 7452812435199848224
+    second: 3-walls_270
+  - first:
+      213: 4300123609246873990
+    second: 3-walls_half_horiz_1
+  - first:
+      213: 6051361931036187715
+    second: 3-walls_half_horiz_2
+  - first:
+      213: -1435765431268837924
+    second: 3-walls_half_vert_1
+  - first:
+      213: -1579425616172852132
+    second: 3-walls_half_vert_2
+  - first:
+      213: -8309228368972009135
+    second: 4-walls_0
+  - first:
+      213: -7515272290947522674
+    second: 4-walls_90
+  - first:
+      213: -1097495929823232801
+    second: 4-walls_180
+  - first:
+      213: 538612861438502964
+    second: 4-walls_270
+  - first:
+      213: -779731494314137081
+    second: 4-walls_half_horiz_1
+  - first:
+      213: -3171978496073674337
+    second: 4-walls_half_horiz_2
+  - first:
+      213: 2758146921456930490
+    second: 4-walls_half_vert_1
+  - first:
+      213: 6146529019017973597
+    second: 4-walls_half_vert_2
+  - first:
+      213: -7829518335895160382
+    second: 5-walls_0
+  - first:
+      213: -1427132415705618729
+    second: 5-walls_90
+  - first:
+      213: 105789420034924201
+    second: 5-walls_180
+  - first:
+      213: -716570789328769045
+    second: 5-walls_270
+  - first:
+      213: -7386083799245221328
+    second: 5-walls_half_horiz_1
+  - first:
+      213: -3558001175322024506
+    second: 5-walls_half_horiz_2
+  - first:
+      213: -2003742383501878992
+    second: 5-walls_half_vert_1
+  - first:
+      213: 7180011139718471204
+    second: 5-walls_half_vert_2
+  - first:
+      213: -7968023354968613256
+    second: 6-walls_0
+  - first:
+      213: 6631327278912915568
+    second: 6-walls_90
+  - first:
+      213: -7036222846407343713
+    second: 6-walls_180
+  - first:
+      213: -3541188145843702530
+    second: 6-walls_270
+  - first:
+      213: -7369063787416081804
+    second: 6-walls_half_horiz_1
+  - first:
+      213: -4312248952888769018
+    second: 6-walls_half_horiz_2
+  - first:
+      213: -6310950828841739957
+    second: 6-walls_half_vert_1
+  - first:
+      213: 3692945834121122855
+    second: 6-walls_half_vert_2
+  - first:
+      213: 4009129409311317989
+    second: 7-walls_0
+  - first:
+      213: 8567159610956842870
+    second: 7-walls_90
+  - first:
+      213: -8860115146024266521
+    second: 7-walls_180
+  - first:
+      213: -6757020852175542888
+    second: 7-walls_270
+  - first:
+      213: -2632343432096101071
+    second: 7-walls_half_horiz_1
+  - first:
+      213: -8534498446943187204
+    second: 7-walls_half_horiz_2
+  - first:
+      213: 6089405372934072437
+    second: 7-walls_half_vert_1
+  - first:
+      213: 3517412535155915449
+    second: 7-walls_half_vert_2
+  - first:
+      213: -8988258551818078392
+    second: 8-walls_0
+  - first:
+      213: -3931521333627753595
+    second: 8-walls_90
+  - first:
+      213: -2653418847644899548
+    second: 8-walls_180
+  - first:
+      213: -5932580206290269753
+    second: 8-walls_270
+  - first:
+      213: -4706233201099459733
+    second: 8-walls_half_horiz_1
+  - first:
+      213: -4092158108874549734
+    second: 8-walls_half_horiz_2
+  - first:
+      213: -8149995651187230164
+    second: 8-walls_half_vert_1
+  - first:
+      213: 2801364523204489268
+    second: 8-walls_half_vert_2
+  - first:
+      213: -2607205159710738493
+    second: 9-walls_0
+  - first:
+      213: 1178871640358843006
+    second: 9-walls_90
+  - first:
+      213: 6151067927668750073
+    second: 9-walls_180
+  - first:
+      213: 1141674157916388366
+    second: 9-walls_270
+  - first:
+      213: 2771797127436617847
+    second: 9-walls_half_horiz_1
+  - first:
+      213: -424999562741177997
+    second: 9-walls_half_horiz_2
+  - first:
+      213: 8399250960298718836
+    second: 9-walls_half_vert_1
+  - first:
+      213: -6434490530962692509
+    second: 9-walls_half_vert_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-walls_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d767caa06c1e42220800000000000000
+      internalID: 2460339537149982333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-walls_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1240
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf6bb4e93aa15e10800000000000000
+      internalID: 2184714459878748098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-walls_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1644
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7945869761f085d0800000000000000
+      internalID: -3062182319402694275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-walls_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1442
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290cfa153b60be5b0800000000000000
+      internalID: -5338165566078205806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-walls_half_horiz_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 936
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb49053a24890f0800000000000000
+      internalID: -1110064038947800154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-walls_half_horiz_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1744
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba9dc2f72f53fd90800000000000000
+      internalID: -7065198765232252239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-walls_half_vert_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 634
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e9a4abfa88dc910800000000000000
+      internalID: 1859292509499989543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-walls_half_vert_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 432
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06066e7edd6b279e0800000000000000
+      internalID: -1625035451332665248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-walls_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1038
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ff3f83283d03d00800000000000000
+      internalID: 950492077629898559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-walls_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 432
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ba81c609582b4d0800000000000000
+      internalID: -3120284736478991540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-walls_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 836
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd83e8635971890800000000000000
+      internalID: -7487351793933296787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-walls_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 634
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1f546a42e7fc350800000000000000
+      internalID: 6039184321200648611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-walls_half_horiz_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1642
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eefc768a749d490800000000000000
+      internalID: -7721061297528246644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-walls_half_horiz_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1540
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bf1d629c1086a70800000000000000
+      internalID: 8820301833656466221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-walls_half_vert_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 230
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66da66f1853541a30800000000000000
+      internalID: 4185061591683083622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-walls_half_vert_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 28
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4beebe5ac7f2b8c0800000000000000
+      internalID: -3984850271724442801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-walls_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8750542a574ddd380800000000000000
+      internalID: -8944759683189242504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-walls_90
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b946ea4436cc6a080800000000000000
+      internalID: -9176422463994698597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-walls_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8e619109ff299a0800000000000000
+      internalID: -6227634340338669367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-walls_270
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f63b15c65bd6760800000000000000
+      internalID: 7452812435199848224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-walls_half_horiz_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1438
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893e6bb3ab1dab30800000000000000
+      internalID: 4300123609246873990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-walls_half_horiz_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1336
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cdbb26d91caf350800000000000000
+      internalID: 6051361931036187715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-walls_half_vert_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 634
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd57f6082f2231ce0800000000000000
+      internalID: -1435765431268837924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-walls_half_vert_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 432
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c5dde25c0c41ae0800000000000000
+      internalID: -1579425616172852132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-walls_0
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15133d592d0bfac80800000000000000
+      internalID: -8309228368972009135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-walls_90
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f9cb34ba364b790800000000000000
+      internalID: -7515272290947522674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-walls_180
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcf2704449e4c0f0800000000000000
+      internalID: -1097495929823232801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-walls_270
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438af753b89897700800000000000000
+      internalID: 538612861438502964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-walls_half_horiz_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1234
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aa83d4656dd25f0800000000000000
+      internalID: -779731494314137081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-walls_half_horiz_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1132
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91d95a1d5edaf3d0800000000000000
+      internalID: -3171978496073674337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-walls_half_vert_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 230
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe07c30308e64620800000000000000
+      internalID: 2758146921456930490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-walls_half_vert_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 28
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f423cb39bdc4550800000000000000
+      internalID: 6146529019017973597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-walls_0
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9bf8a5e86f75390800000000000000
+      internalID: -7829518335895160382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-walls_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1644
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6eb6211aec13ce0800000000000000
+      internalID: -1427132415705618729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-walls_180
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae1d22cae6d77100800000000000000
+      internalID: 105789420034924201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-walls_270
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef23a5e9aa3e06f0800000000000000
+      internalID: -716570789328769045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-walls_half_horiz_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 834
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03298b0faeb5f7990800000000000000
+      internalID: -7386083799245221328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-walls_half_horiz_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1030
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5228a38c07f9ec0800000000000000
+      internalID: -3558001175322024506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-walls_half_vert_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1644
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039d9f12be64134e0800000000000000
+      internalID: -2003742383501878992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-walls_half_vert_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1442
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e544a171684a360800000000000000
+      internalID: 7180011139718471204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-walls_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1442
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e541d99f4eb6190800000000000000
+      internalID: -7968023354968613256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-walls_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 836
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07846f0a605370c50800000000000000
+      internalID: 6631327278912915568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-walls_180
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1240
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f910767c9905a5e90800000000000000
+      internalID: -7036222846407343713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-walls_270
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1038
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef47924b42c2bdec0800000000000000
+      internalID: -3541188145843702530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-walls_half_horiz_1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1744
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aaedf3783dbb990800000000000000
+      internalID: -7369063787416081804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-walls_half_horiz_2
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1642
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606c304bc60d724c0800000000000000
+      internalID: -4312248952888769018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-walls_half_vert_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1240
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b495ee378affa68a0800000000000000
+      internalID: -6310950828841739957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-walls_half_vert_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1038
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7245c898baaff3330800000000000000
+      internalID: 3692945834121122855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-walls_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef929cd4f943a730800000000000000
+      internalID: 4009129409311317989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-walls_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1240
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6770821864aa4e670800000000000000
+      internalID: 8567159610956842870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-walls_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1644
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e45a24b73c8a0580800000000000000
+      internalID: -8860115146024266521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-walls_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1442
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8956b2ec55d3a32a0800000000000000
+      internalID: -6757020852175542888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-walls_half_horiz_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 936
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d44136899087bd0800000000000000
+      internalID: -2632343432096101071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-walls_half_horiz_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1744
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe04d551ee5f8980800000000000000
+      internalID: -8534498446943187204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-walls_half_vert_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 634
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57827137ce9e18450800000000000000
+      internalID: 6089405372934072437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-walls_half_vert_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 432
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba797e801c50d030800000000000000
+      internalID: 3517412535155915449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-walls_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847348d087a434380800000000000000
+      internalID: -8988258551818078392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-walls_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1240
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b6f3a5d2e6079c0800000000000000
+      internalID: -3931521333627753595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-walls_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1644
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427acc1dd992d2bd0800000000000000
+      internalID: -2653418847644899548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-walls_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1442
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c90e8a0cbd3bada0800000000000000
+      internalID: -5932580206290269753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-walls_half_horiz_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 936
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63315a96d910beb0800000000000000
+      internalID: -4706233201099459733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-walls_half_horiz_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1744
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a165cc391ebb537c0800000000000000
+      internalID: -4092158108874549734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-walls_half_vert_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 634
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ab102c22665ee80800000000000000
+      internalID: -8149995651187230164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-walls_half_vert_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 432
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4303cfb013270e620800000000000000
+      internalID: 2801364523204489268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-walls_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1846
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c730e688b851dbd0800000000000000
+      internalID: -2607205159710738493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-walls_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1240
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72fe5fc2813c5010800000000000000
+      internalID: 1178871640358843006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-walls_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1644
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f67ef1c0bbfc5550800000000000000
+      internalID: 6151067927668750073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-walls_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1442
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c79d7099a08df00800000000000000
+      internalID: 1141674157916388366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-walls_half_horiz_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 936
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778ce424dc6677620800000000000000
+      internalID: 2771797127436617847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-walls_half_horiz_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1744
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ad1146291a1af0800000000000000
+      internalID: -424999562741177997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-walls_half_vert_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 634
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476b6fb4f32209470800000000000000
+      internalID: 8399250960298718836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-walls_half_vert_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 432
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366aa5714f814b6a0800000000000000
+      internalID: -6434490530962692509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
